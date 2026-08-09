@@ -1,0 +1,14 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "encoding_batch_size": 32,
+  "selected_C": 1.0,
+  "class_weight": "balanced",
+  "solver": "liblinear",
+  "max_iter": 2000,
+  "random_seed": 42,
+  "normalize_embeddings": true,
+  "label_mapping": {
+    "0": "negative",
+    "1": "positive"
+  }
+}

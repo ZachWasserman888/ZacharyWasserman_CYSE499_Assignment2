@@ -1,0 +1,1 @@
+Run stage1_notebook.ipynb from top to bottom to create the final checkpoint files.
